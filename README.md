@@ -23,6 +23,7 @@ Things you need to do to run this:
   
   
 # #Step 4
+### Create a div with id "bot" in your html and
 ### Add the following javascript snippet in your project
 
   - If using index.html
