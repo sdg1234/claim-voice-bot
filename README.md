@@ -7,19 +7,19 @@ Things you need to do to run this:
 # #Step 1
 ### Include jquery
 
-  > <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+  - <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
 
 # #Step 2
 ### Add Font-Awesome Dependency to the <head> element
 
-  > <link 
+ -> <link 
   rel="stylesheet"
   href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
 
 # #Step 3
 ### Download voicebot.js into your project and include it in index.html
 
-  > <script src="voicebot.js"></script>
+  - <script src="voicebot.js"></script>
   
   
 # #Step 4
