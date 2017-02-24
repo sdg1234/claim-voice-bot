@@ -2,7 +2,7 @@
 
 This project is to enable a simple voicebot in your project to help you with raising a claim.
 
-### find the sample project in dist/index.html and be sure to run it behind a server
+### find the sample project in dist/  folder and be sure to run it behind a server
 
 Things you need to do to run this:
 
